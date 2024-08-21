@@ -30,7 +30,7 @@ num2 = input('Digite um número: ')
             print("Digite um número válido.")
             continue
 
-#3. Implemente ao menos 4 operações matemáticas em seu código;
+# 3. Implemente ao menos 4 operações matemáticas em seu código;
 
         print('\nEscolha uma operação: ')
         print('1. Soma')
@@ -41,7 +41,7 @@ num2 = input('Digite um número: ')
 
 opcao = input('Digite o número da operação desejada: ')
 
-#4. Adicione um laço de repetição ou uma condicional.
+# 4. Adicione um laço de repetição ou uma condicional.
 
 if opcao =='1':
 resultado = num1 + num2
